@@ -10,7 +10,6 @@ html {
   align-items: center;
   justify-content: center;
   background-color: #f5f5ff;
-  overflow: hidden;
 }
 .container {
   margin: 0 auto;
